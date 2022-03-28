@@ -2,4 +2,4 @@
 Classic game of Snake made using Turtle graphics
 Made during python course on udemy.
 Contains basic scoring system.
-To start the game, download the files into a folder and double click on main.py.
+To start the game, download the files into a folder and right click on main.py. Open with Python interpreter.
